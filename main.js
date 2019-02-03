@@ -68,7 +68,7 @@
           }
         }
         // конец функции спуска
-        down(parentSecond);
+      
         // конец внешнего if
       } else {
         setTimeout(() => {
